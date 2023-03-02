@@ -230,4 +230,4 @@ https://api.bilibili.com/x/web-interface/popular/series/one?number=期数(第几
 https://api.bilibili.com/x/web-interface/popular/precious?page_size=显示个数&pn=页码
 
 获取"排行榜·全部"视频 (GET 返回Json 无需Cookie)
-https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all(其他的太诡异找不到) 作者：可爱的小喵咪Cat https://www.bilibili.com/read/cv12357091 出处：bilibili
+https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all(其他的太诡异找不到)
